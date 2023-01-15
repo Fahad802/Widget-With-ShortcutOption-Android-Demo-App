@@ -1,3 +1,3 @@
-package com.akshatbhuhagal.mynotes.util.extensions
+package com.ft.myapplication.util.extensions
 
 const val EMPTY_STRING = ""

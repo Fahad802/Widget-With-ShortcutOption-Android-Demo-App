@@ -18,10 +18,10 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.akshatbhuhagal.mynotes.util.extensions.EMPTY_STRING
-import com.akshatbhuhagal.mynotes.util.extensions.makeGone
-import com.akshatbhuhagal.mynotes.util.extensions.makeVisible
-import com.akshatbhuhagal.mynotes.util.viewBinding
+import com.ft.myapplication.util.extensions.EMPTY_STRING
+import com.ft.myapplication.util.extensions.makeGone
+import com.ft.myapplication.util.extensions.makeVisible
+import com.ft.myapplication.util.viewBinding
 import com.ft.myapplication.R
 import com.ft.myapplication.data.local.entities.NoteEntity
 import com.ft.myapplication.databinding.FragmentCreateNoteBinding

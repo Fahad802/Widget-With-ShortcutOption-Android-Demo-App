@@ -9,9 +9,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.akshatbhuhagal.mynotes.util.extensions.EMPTY_STRING
-import com.akshatbhuhagal.mynotes.util.extensions.makeGone
-import com.akshatbhuhagal.mynotes.util.extensions.makeVisible
+import com.ft.myapplication.util.extensions.EMPTY_STRING
+import com.ft.myapplication.util.extensions.makeGone
+import com.ft.myapplication.util.extensions.makeVisible
 import com.ft.myapplication.R
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

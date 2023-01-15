@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
-import com.akshatbhuhagal.mynotes.util.viewBinding
+import com.ft.myapplication.util.viewBinding
 import com.ft.myapplication.R
 import com.ft.myapplication.databinding.FragmentHomeBinding
 import com.ft.myapplication.presentation.create_notes.CreateNoteFragment

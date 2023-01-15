@@ -1,4 +1,4 @@
-package com.akshatbhuhagal.mynotes.util.extensions
+package com.ft.myapplication.util.extensions
 
 import android.view.View
 

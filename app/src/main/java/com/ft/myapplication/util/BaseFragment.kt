@@ -1,4 +1,4 @@
-package com.akshatbhuhagal.mynotes.util
+package com.ft.myapplication.util
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

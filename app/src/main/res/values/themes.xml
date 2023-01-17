@@ -19,6 +19,10 @@
 
     </style>
 
+    <style name="AppTheme" parent="Theme.MyNotes">
+        <item name="android:fontFamily">@font/akaya_telivigala</item>
+    </style>
+
 
     <!-- Search View Text  -->
     <style name="SearchAutoCompleteTextView" parent="Widget.AppCompat.Light.AutoCompleteTextView">
